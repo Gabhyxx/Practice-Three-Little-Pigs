@@ -1,0 +1,21 @@
+*
+{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+
+}
+header
+{
+    background-color:crimson;
+}
+
+h2
+{
+    background-color:tomato;
+    color: white;
+}
+
+img
+{
+    width: 250px;
+}

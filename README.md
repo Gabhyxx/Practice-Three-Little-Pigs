@@ -23,3 +23,6 @@ And this tools
 - GitHub
 - Google Classrooms
 
+## Screenshots
+
+![App Screenshot](/img/Screenshot.png)
